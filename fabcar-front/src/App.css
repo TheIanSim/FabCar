@@ -1,0 +1,89 @@
+.Logo-container{
+  position: fixed;
+  color: #40a9ff;
+  z-index: 2;
+  height: 50px;
+  width: 130px;
+  border-radius: 5px;
+  text-align: center;
+  left:10px;
+  visibility: hidden;
+}
+
+.Logo-container h1{
+  padding: 0;
+  margin-top: 15px;
+}
+
+.Main-container{
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 65%;
+  width: 66%;
+  padding:  10px 10px 10px 5px;
+  background: lightgrey;
+}
+
+
+.Feed-container{
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 65%;
+  width: 34%;
+  padding: 10px 5px 10px 10px;
+  background: lightgrey;
+}
+
+
+.Blocks-container{
+  position: fixed;
+  box-sizing: border-box;
+  bottom: 0;
+  left:0;
+  right:0;
+  height: 35%;
+  padding: 10px;
+  background: lightgrey;
+}
+
+.Page-container{
+  height: 100%;
+}
+
+.Query-Container{
+  padding: 20px;
+}
+
+.Main-inside{
+  padding: 20px;
+  text-align: center;
+}
+
+.Main-inside p {
+  margin-top: 30px;
+  color: grey;
+}
+
+.Connected-button {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+
+.Info-container {
+  text-align: center;
+}
+
+.Logo {
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 10%;
+}
+
+.error {
+  color: red;
+}
