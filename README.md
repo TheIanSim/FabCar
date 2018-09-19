@@ -60,4 +60,4 @@ Interfacing with the blockchain ledger is done via Hyperledger's Node SDK. All t
 
 ## Media
 Screenshots are available [HERE](/Media).
-A YouTube demonstration is also available [Part 1](), [Part 2](https://youtu.be/ipUDXU-eOYs).
+A YouTube demonstration is also available [Part 1](https://youtu.be/hWPlVqPRyp4), [Part 2](https://youtu.be/ipUDXU-eOYs).
